@@ -1,0 +1,30 @@
+{
+  "name": "memjs-oauth2-provider",
+  "version": "0.0.1",
+  "description": "Memcache Provider for oauth2-base",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.3.1",
+    "memjs": "^0.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mediahead-AG/memjs-oauth2-provider.git"
+  },
+  "keywords": [
+    "oauth",
+    "oauth2",
+    "memcache",
+    "memcached"
+  ],
+  "author": "Jonatan Männchen <jonatan@maennchen.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mediahead-AG/memjs-oauth2-provider/issues"
+  },
+  "homepage": "https://github.com/Mediahead-AG/memjs-oauth2-provider"
+}
